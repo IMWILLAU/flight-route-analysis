@@ -1,4 +1,4 @@
-Flight Route Complexity ANaylsis
+Flight Route Anaylsis
 
 This project explores global flight route data to understand movement patterns and route complexity. The analysis focuses on identifying baseline behaviour and highlighting less common multi stop routes using Python and exploratory data analysis techniques.
 
@@ -27,4 +27,5 @@ Key Findings
 
 Flight_route_anaylsis.ipynb - main analysis notebook
 requirements.txt - environment tools dependencies
+
 routes.csv - dataset
